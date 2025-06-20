@@ -5,7 +5,7 @@ Various STL files for W5500 on GameCube
 These were remixed from Silverstee1 SP1ETH 
 source: https://github.com/silverstee1/SP1ETH
 
-I made alterations for the W5500 to fit if it is ever supported in the future. 
+I made alterations for the W5500 to fit in the SP1ETH, if it is ever supported in the future. 
 
 Currently, W5500  in the SP1 port is not supported as of writing this 6/19/25
 
